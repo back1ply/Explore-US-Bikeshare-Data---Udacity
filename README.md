@@ -3,7 +3,7 @@ Part of the Udacity Data Analyst Degree which is sponsored by [egyFWD](https://e
 This project imports data from csv files and compute descriptive statistics from the data. It also takes in users' raw input for filteration and to present these statistics.
 
 ## Installation
-Make sure you have your python 3 insallted, i have used Anaconda to make this easier for me.
+Make sure you have your python 3 insallted, i have used [Anaconda](https://www.anaconda.com/products/distribution) to make this easier for me.
 
 Make sure you have the dataset files as well, can be found [here](https://drive.google.com/drive/folders/16FfhNDfAh0DvTIRw9r0plmWZlHPEcBa4).
 
